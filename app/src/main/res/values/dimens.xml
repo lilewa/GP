@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--字体-->
+    <dimen name="app_text_size">15sp</dimen>
+    <dimen name="app_title_size">18sp</dimen>
+    <dimen name="app_title_size_xiao">14sp</dimen>
+    <dimen name="app_dibu_text_size">14sp</dimen>
+
+    <!--间距-->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="app_ping">10dp</dimen>
+    <dimen name="app_title_high">50dp</dimen>
+    <dimen name="app_title_width_50">50dp</dimen>
+    <dimen name="app_title_width_80">80dp</dimen>
+    <dimen name="app_title_ping">12dp</dimen>
+    <dimen name="app_title_mach">10dp</dimen>
+    <dimen name="app_dialog">50dp</dimen>
+    <dimen name="advertisement_high">180dp</dimen>
+    <dimen name="faqi_high">180dp</dimen>
+
+    <dimen name="margin_50dp">50dp</dimen>
+</resources>

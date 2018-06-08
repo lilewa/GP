@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle" >
+    <!--通过width来指定光标的宽度-->
+    <size
+        android:width="2dip" />
+    <solid
+        android:color="@color/blue" />
+    <!--通过top属性来使光标顶部 向上移动距离-->
+    <!--通过bottom属性来使光标底部 向下移动距离 (所以指定负数就是使光标底部向上挪了)-->
+    <padding
+        android:top="-5sp"
+        android:bottom="-5sp" />
+</shape>

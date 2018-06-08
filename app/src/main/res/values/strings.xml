@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">馆配选书</string>
+    <!--获取相机临时保存路径-->
+    <string name="camera_temp">/cameratemp/</string>
+    <!--功能:获取画板合成图片路径-->
+    <string name="canvas_bitmap">/canvasbitmap/</string>
+    <!--获取应用的BitmapCache路径.-->
+    <string name="bitmap_cache">/bitmapcache/</string>
+    <!--应用更新路径-->
+    <string name="download">/Download/</string>
+
+    <!-- 数据库和文件路径 -->
+    <string name="dir">/Android/data/com.yj.peige</string>
+</resources>
